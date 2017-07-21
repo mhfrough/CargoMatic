@@ -5,7 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Installation
 
 Clone this project
+
 Open project directory
+
 run `npm install` in terminal
 
 ## Development server
